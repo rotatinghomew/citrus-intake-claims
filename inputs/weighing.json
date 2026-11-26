@@ -1,0 +1,44 @@
+[
+  {
+    "id": "S101",
+    "source": "ORIGIN",
+    "segment": "T-127",
+    "scope": "vehicle",
+    "unit": "t",
+    "gross": "9.16",
+    "tare": "4.16",
+    "at": "2026-12-03T06:07:00+08:00"
+  },
+  {
+    "id": "A204",
+    "source": "FAC-A",
+    "segment": "T-127",
+    "scope": "vehicle",
+    "unit": "kg",
+    "gross": "8980",
+    "tare": "4160",
+    "at": "2026-12-03T07:10:00+08:00"
+  },
+  {
+    "id": "A205",
+    "source": "FAC-A",
+    "segment": "T-127",
+    "scope": "C1",
+    "unit": "kg",
+    "gross": "2345",
+    "tare": "45",
+    "at": "2026-12-03T07:13:00+08:00"
+  },
+  {
+    "id": "A244",
+    "corrects": "A204",
+    "source": "FAC-A",
+    "segment": "T-127",
+    "scope": "vehicle",
+    "unit": "kg",
+    "gross": "8610",
+    "tare": "4160",
+    "at": "2026-12-03T07:10:00+08:00",
+    "sent_at": "2026-12-03T14:20:00+08:00"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "segment": "T-127",
+  "carrier": "YS2",
+  "stops": [
+    "FAC-A",
+    "FAC-B"
+  ],
+  "compartments": [
+    {
+      "cell": "C1",
+      "seal": "D781",
+      "declared_kg": 2400,
+      "shares": [
+        [
+          "COOP-F",
+          "F391",
+          3
+        ],
+        [
+          "COOP-J",
+          "J204",
+          1
+        ]
+      ]
+    },
+    {
+      "cell": "C2",
+      "seal": "D782",
+      "declared_kg": 1600,
+      "shares": [
+        [
+          "COOP-F",
+          "F399",
+          1
+        ]
+      ]
+    },
+    {
+      "cell": "C3",
+      "seal": "D783",
+      "declared_kg": 1000,
+      "shares": [
+        [
+          "COOP-G",
+          "G102",
+          1
+        ]
+      ]
+    }
+  ]
+}

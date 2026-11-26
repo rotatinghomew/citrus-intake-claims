@@ -1,0 +1,33 @@
+{
+  "goods": {
+    "COOP-F": "0.62",
+    "COOP-J": "0.74",
+    "COOP-G": "0.69"
+  },
+  "currency": "CNY",
+  "unverified_use_cap_kg": 1500,
+  "weight_tolerance_kg": 100,
+  "carrier_first_unload_fee": "160.00",
+  "carrier_other_stop_fee": "55.00",
+  "arbiter": "XU-40",
+  "claims": [
+    {
+      "id": "W1",
+      "scope": "vehicle",
+      "by": "FAC-A"
+    },
+    {
+      "id": "W2",
+      "scope": "C3",
+      "by": "FAC-B",
+      "reason": "seal"
+    }
+  ],
+  "carrier_legacy_signoff": {
+    "id": "P1",
+    "scope": "C1",
+    "item": "first_unload",
+    "amount": "160.00",
+    "paid": true
+  }
+}
